@@ -27,49 +27,71 @@ vocabulary
 dialog
 ------------------------------------------
 
-* |:a:| Hey Kevin, what's that you're drinking there?
+|:a:| Hey Kevin, what's that you're drinking there?
 
-        嗨，Kevin，你在喝什么呢？
+::
 
-* |:b:| Oh this? It's my tasty **meal replacement** shake. Chocolate peanut butter. It tastes great!
+   嗨，Kevin，你在喝什么呢？
 
-        哦，这个吗？这是我的美味代餐奶昔。巧克力花生酱口味的。很好喝！
+|:b:| Oh this? It's my tasty **meal replacement** shake. Chocolate peanut butter. It tastes great!
 
-* |:a:| Why are you drinking that? Trying to **shed some pounds** or something?
+::
 
-        你为什么要喝那个呢？想减肥什么的吗？
+   哦，这个吗？这是我的美味代餐奶昔。巧克力花生酱口味的。很好喝！
 
-* |:b:| Yeah, it's part of this diet I'm on. I drink one of these every day instead of having lunch.
+|:a:| Why are you drinking that? Trying to **shed some pounds** or something?
 
-        对，这是我控制饮食计划的一部分。我每天中午会喝一杯来代替午饭。
+::
 
-* |:a:| I guess that's one way to cut calories. But does it keep you **satiated**?
+   你为什么要喝那个呢？想减肥什么的吗？
 
-        我想这确实能减少卡路里摄入了。但你能饱吗？
+|:b:| Yeah, it's part of this diet I'm on. I drink one of these every day instead of having lunch.
 
-* |:b:| Yep, it's packed with **protein** and **fiber**, so it leaves me feeling full.
+::
 
-        能，这里面全是蛋白质和纤维素，所以会让我觉得很饱。
+   对，这是我控制饮食计划的一部分。我每天中午会喝一杯来代替午饭。
 
-* |:a:| But aren't you missing out on essential **vitamins** and **minerals** by not eating solid food?
+|:a:| I guess that's one way to cut calories. But does it keep you **satiated**?
 
-        但不吃固体食物的话，难道不会缺一些必要的维生素和矿物质吗？
+::
 
-* |:b:| On the contrary, Gary. It's got all the **nutrients** I need.
+   我想这确实能减少卡路里摄入了。但你能饱吗？
 
-        恰恰相反，Gary。这里面有我所需的所有营养。
+|:b:| Yep, it's packed with **protein** and **fiber**, so it leaves me feeling full.
 
-* |:a:| I think I'd prefer a more traditional diet of **unprocessed** foods, but you do look slimmer.
+::
 
-        我觉得我还是更喜欢非加工食品那种传统饮食方式，但你看起来确实瘦了。
+   能，这里面全是蛋白质和纤维素，所以会让我觉得很饱。
 
-* |:b:| Thanks, I've already **dropped** two pant sizes!
+|:a:| But aren't you missing out on essential **vitamins** and **minerals** by not eating solid food?
 
-        谢谢，我已经能穿小两个码的裤子了！
+::
 
-* |:a:| That's great. But I guess I'll have to invite someone else to brunch this weekend. Oh, well. Bon appetit!
+   但不吃固体食物的话，难道不会缺一些必要的维生素和矿物质吗？
 
-        很不错啊，看来这周末我只能邀请别人一起吃早午餐了。那你享受代餐吧！
+|:b:| On the contrary, Gary. It's got all the **nutrients** I need.
+
+::
+
+   恰恰相反，Gary。这里面有我所需的所有营养。
+
+|:a:| I think I'd prefer a more traditional diet of **unprocessed** foods, but you do look slimmer.
+
+::
+
+   我觉得我还是更喜欢非加工食品那种传统饮食方式，但你看起来确实瘦了。
+
+|:b:| Thanks, I've already **dropped** two pant sizes!
+
+::
+
+   谢谢，我已经能穿小两个码的裤子了！
+
+|:a:| That's great. But I guess I'll have to invite someone else to brunch this weekend. Oh, well. Bon appetit!
+
+::
+
+   很不错啊，看来这周末我只能邀请别人一起吃早午餐了。那你享受代餐吧！
 
 
 explanation
