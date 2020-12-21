@@ -10,6 +10,7 @@ Dialog
    :maxdepth: 2
    :caption: Contents:
 
+   Ordering_food_at_a_restaurant
    Meal_replacements
 
 
