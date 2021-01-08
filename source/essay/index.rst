@@ -3,23 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-每天都要学英语
+Essay
 ==========================================
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
 
-   dialog/index
-   essay/index
-
-
-.. image:: _static/images/qrcode.png
-   :align: center
+   Grow_Great_by_Dreams
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
